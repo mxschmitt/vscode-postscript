@@ -10,17 +10,31 @@
     "categories": [
         "Languages"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maxibanki/vscode-postscript.git"
+    },
     "contributes": {
-        "languages": [{
-            "id": "postscript",
-            "aliases": ["Postscript", "postscript"],
-            "extensions": [".ps",".eps"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "postscript",
-            "scopeName": "source.postscript",
-            "path": "./syntaxes/postscript.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "postscript",
+                "aliases": [
+                    "Postscript",
+                    "postscript"
+                ],
+                "extensions": [
+                    ".ps",
+                    ".eps"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "postscript",
+                "scopeName": "source.postscript",
+                "path": "./syntaxes/postscript.tmLanguage"
+            }
+        ]
     }
 }
