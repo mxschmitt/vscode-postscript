@@ -1,8 +1,8 @@
 {
     "name": "postscript",
-    "displayName": "PostScript Language Support",
-    "description": "Integrating PostScript Language Support",
-    "version": "0.0.1",
+    "displayName": "PostScript Language",
+    "description": "Integrating PostScript Syntax highlighting",
+    "version": "1.0.0",
     "publisher": "maxibanki",
     "engines": {
         "vscode": "^1.17.0"
