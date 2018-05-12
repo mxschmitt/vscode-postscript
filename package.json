@@ -3,16 +3,16 @@
     "displayName": "PostScript Language",
     "description": "Integrating PostScript Syntax highlighting",
     "version": "1.0.0",
-    "publisher": "maxibanki",
+    "publisher": "mxschmitt",
     "engines": {
         "vscode": "^1.17.0"
     },
     "categories": [
-        "Languages"
+        "Programming Languages"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/maxibanki/vscode-postscript.git"
+        "url": "https://github.com/mxschmitt/vscode-postscript.git"
     },
     "contributes": {
         "languages": [
