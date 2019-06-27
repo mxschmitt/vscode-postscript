@@ -4,7 +4,7 @@ This extension integrates syntax highlighting for the PostScript language in VS 
 
 ## Features
 
-Syntax Highliting:
+Syntax Highlighting:
 
 ![image](images/example-hightling.png)
 
