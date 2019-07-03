@@ -2,7 +2,7 @@
     "name": "postscript",
     "displayName": "PostScript Language",
     "description": "Integrating PostScript Syntax highlighting",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "mxschmitt",
     "engines": {
         "vscode": "^1.17.0"
